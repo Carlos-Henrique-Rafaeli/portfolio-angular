@@ -64,7 +64,7 @@ export class Portfolio {
       descricao: `O sistema E-Agenda permite o gerenciamento completo de compromissos pessoais e profissionais, com cadastro de contatos, tarefas, despesas, categorias e compromissos. É possível organizar e visualizar compromissos por data e tipo, registrar tarefas com prioridades e progresso, gerenciar contatos com validações específicas, controlar despesas por categorias e consultar informações agrupadas por relevância e status de conclusão.`,
     },
     {
-      titulo: 'Gerador De Testes',
+      titulo: 'Gerador de Testes',
       urlImagem: 'https://i.imgur.com/LJfDZqu.png',
       urlGif: 'https://i.imgur.com/hXfn0BS.gif',
       urlRepositorio: 'https://github.com/Carlos-Henrique-Rafaeli/gerador-de-testes',
@@ -76,8 +76,49 @@ export class Portfolio {
         'https://skillicons.dev/icons?i=bootstrap&theme=light',
         'https://skillicons.dev/icons?i=azure&theme=light',
         'https://skillicons.dev/icons?i=postgres&theme=light',
+        'https://skillicons.dev/icons?i=selenium&theme=light',
       ],
       descricao: `Sistema gerador de testes avaliativos, com cadastro de disciplinas, matérias e questões. Permite gerar provas e gabaritos em PDF.`,
+    },
+    {
+      titulo: 'Controle de Cinema',
+      urlImagem: 'https://i.imgur.com/Bk3wQRY.png',
+      urlGif: 'https://i.imgur.com/hXfn0BS.gif',
+      urlRepositorio: 'https://github.com/NullifiedOps/controle-de-cinema-2025',
+      stack: [
+        'https://skillicons.dev/icons?i=html&theme=light',
+        'https://skillicons.dev/icons?i=css&theme=light',
+        'https://skillicons.dev/icons?i=cs&theme=light',
+        'https://skillicons.dev/icons?i=net&theme=light',
+        'https://skillicons.dev/icons?i=bootstrap&theme=light',
+        'https://skillicons.dev/icons?i=azure&theme=light',
+        'https://skillicons.dev/icons?i=postgres&theme=light',
+        'https://skillicons.dev/icons?i=selenium&theme=light',
+      ],
+      descricao: `Sistema de gerenciamento de cinema, com cadastro de gêneros, filmes, salas e sessões. Permite às empresas administrarem os conteúdos e programações, enquanto os clientes podem visualizar as sessões disponíveis e realizar a compra de ingressos.`,
+    },
+    {
+      titulo: 'Gestão de Estacionamento',
+      urlImagem: 'https://i.imgur.com/8Ndnp6e.png',
+      urlGif: 'https://i.imgur.com/hXfn0BS.gif',
+      urlRepositorio: 'https://github.com/NullifiedOps/gestao-estacionamento',
+      stack: [
+        'https://skillicons.dev/icons?i=cs&theme=light',
+        'https://skillicons.dev/icons?i=net&theme=light',
+      ],
+      descricao: `Sistema de gerenciamento de estacionamento utilizando API, com autenticação via JWT Bearer. Permite à empresa cadastrar veículos, registrar entrada e saída no pátio e finalizar a diária, gerando automaticamente o valor da fatura.`,
+    },
+    {
+      titulo: 'Pokedex',
+      urlImagem: 'https://i.imgur.com/Vy3XJUi.png',
+      urlGif: 'https://i.imgur.com/hXfn0BS.gif',
+      urlRepositorio: 'https://github.com/Carlos-Henrique-Rafaeli/pokedex',
+      stack: [
+        'https://skillicons.dev/icons?i=angular&theme=light',
+        'https://skillicons.dev/icons?i=nodejs&theme=light',
+        'https://skillicons.dev/icons?i=bootstrap&theme=light',
+      ],
+      descricao: `Sistema integrado à PokéAPI. Permite visualizar detalhes como tipos, habilidades e estatísticas, além de organizar favoritos para acesso rápido.`,
     },
   ];
 
